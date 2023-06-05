@@ -1,0 +1,15 @@
+*{
+    background-color: #FFE79B;
+    padding:5px;
+}
+
+h1{
+    color: #ffffff;
+    background-color: #DD58D6;
+    display: inline;
+    padding: 6px;
+}
+ul, li, a{
+    font-size: 18px;
+    padding: 2px;
+}
