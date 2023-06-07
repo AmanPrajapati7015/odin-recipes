@@ -11,6 +11,10 @@ a:visited{
 
 }
 
+a{
+    display: inline-block;
+}
+
 .container{
     display: block;
     width: 991px;
